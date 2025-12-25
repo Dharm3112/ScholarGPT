@@ -1,4 +1,4 @@
-# 🧠 ScholarGPT: Chat with Your Data
+# 🧠 ScholarGPT : Chat with Your Data
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red)
