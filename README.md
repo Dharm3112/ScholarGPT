@@ -127,3 +127,10 @@ ScholarGPT/
 ## 📜 License
 
 This project is open-source and available under the [MIT License](https://github.com/Dharm3112/ScholarGPT/blob/main/LICENSE).
+
+---
+
+<p align="center">
+  <b>PostureGuard</b> • Created by <a href="https://github.com/Dharm3112"><b>Dharm Patel</b></a>
+</p>
+
