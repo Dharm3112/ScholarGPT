@@ -8,7 +8,6 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain_huggingface import HuggingFaceEmbeddings, HuggingFaceEndpoint
 from htmlTemplates import css, bot_template, user_template
 
-
 # --- CRAZY TECH: LOCAL LLM OPTION (Uncomment to run offline) ---
 # from langchain_community.llms import CTransformers
 # def load_local_llm():
@@ -146,3 +145,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
