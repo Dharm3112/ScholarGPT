@@ -9,10 +9,6 @@
 
 Unlike standard chatbots, ScholarGPT answers based *only* on the document you provide, eliminating hallucinations and making it perfect for academic study.
 
----
-
-## 📸 Demo
-*(Recommended: Add a screenshot of your app interface here)*
 
 ---
 
