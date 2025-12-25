@@ -1,3 +1,4 @@
+
 streamlit
 pypdf
 langchain
@@ -8,3 +9,4 @@ faiss-cpu
 sentence-transformers
 huggingface_hub
 python-dotenv
+
