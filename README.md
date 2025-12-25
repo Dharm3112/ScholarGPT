@@ -131,6 +131,6 @@ This project is open-source and available under the [MIT License](https://github
 ---
 
 <p align="center">
-  <b>PostureGuard</b> • Created by <a href="https://github.com/Dharm3112"><b>Dharm Patel</b></a>
+  <b>ScholarGPT</b> • Created by <a href="https://github.com/Dharm3112"><b>Dharm Patel</b></a>
 </p>
 
